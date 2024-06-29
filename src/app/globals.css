@@ -1,33 +1,92 @@
+/* globals.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Permanent+Marker&family=Press+Start+2P&display=swap');
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ECF0F1;
+  color: #2C3E50;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.game-text {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.anime-text {
+  font-family: "Permanent Marker", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.profile-image {
+  border-radius: 50%;
+  border: 4px solid #2C3E50;
+}
+
+.link {
+  color: #3498DB;
+}
+
+.link:hover {
+  color: #2C3E50;
+}
+
+.svg-link {
+  position: absolute;
+  width: 40%;
+}
+
+#cv {
+  top: -30px;
+  left: -20%;
+}
+
+#linkedin {
+  bottom: -20px;
+  left: -20%;
+}
+
+#github {
+  top: -15px;
+  right: -30%;
+}
+
+#mail {
+  bottom: -20px;
+  right: -20%;
+}
+
+.svg-path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: draw 15s forwards;
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
   }
+}
+
+/* Keyframes for color cycle */
+.color-cycle {
+  animation: cycleColors 10s infinite; /* 6 seconds for full cycle, repeating infinitely */
+}
+
+@keyframes cycleColors {
+  0%, 100% { background-color: rgb(231, 214, 214); }
+  16.67% { background-color: rgb(231, 214, 231); }
+  33.33% { background-color: rgb(214, 214, 231); }
+  50% { background-color: rgb(214, 231, 231); }
+  66.67% { background-color: rgb(214, 231, 214); }
+  83.33% { background-color: rgb(231, 231, 214); }
 }
