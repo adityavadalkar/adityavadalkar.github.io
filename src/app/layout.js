@@ -6,8 +6,45 @@ import Head from 'next/head';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Aditya Vadalkar",
-  description: "Aditya Vadalkar's portfolio showcasing skills and projects in software engineering, AI, and more.",
+  metadataBase: new URL('https://adityavadalkar.github.io'),
+  title: "Aditya Vadalkar - Software Engineer & AI Developer",
+  description: "Portfolio of Aditya Vadalkar - Software Engineer specializing in AI, Machine Learning, and Full Stack Development. View projects and experience.",
+  keywords: ["Aditya Vadalkar", "Software Engineer", "AI Developer", "Machine Learning", "Full Stack Developer", "USC Graduate", "Los Angeles"],
+  openGraph: {
+    title: "Aditya Vadalkar - Software Engineer & AI Developer",
+    description: "Portfolio of Aditya Vadalkar - Software Engineer specializing in AI, Machine Learning, and Full Stack Development.",
+    url: 'https://adityavadalkar.github.io',
+    siteName: 'Aditya Vadalkar Portfolio',
+    images: [
+      {
+        url: '/Profile pic.jpg',
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "Aditya Vadalkar - Software Engineer & AI Developer",
+    description: "Portfolio of Aditya Vadalkar - Software Engineer specializing in AI, Machine Learning, and Full Stack Development.",
+    images: ['/Profile pic.jpg'],
+  },
+  verification: {
+    google: 'google4eb90cc9a6d1866d', // Add this after getting it from Google Search Console
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({ children }) {
