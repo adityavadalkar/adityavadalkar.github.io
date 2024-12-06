@@ -19,11 +19,11 @@ export default function Home() {
       <div className="w-full lg:w-2/3 h-full p-6 flex flex-col items-center justify-center relative">
         <div className='relative flex'>
           <Image
-            src="/Profile pic.jpg"
+            src="./Profile pic.jpg"
             alt="Aditya Vadalkar"
             className="profile-image w-64 h-64 object-cover object-top z-10"
-            width={256}
-            height={256}
+            width={64}
+            height={64}
           />
             <a href="/Aditya Vadalkar Resume.pdf" target="_blank" className="link">
             <Tooltip title="Resume" position="left">
@@ -96,20 +96,20 @@ export default function Home() {
           options={{
             delay: 50,
             loop: true,
-            wrapperClassName: "text-2xl mt-4"
+            wrapperClassName: "sm:text-2xl text-lg anime-text"
           }}
         />
-        <main className="w-3/4 mt-4 text-md text-gray-600 font-handwritten">
+        <main className="sm:w-3/4 mt-4 text-md text-gray-600 font-handwritten">
         I&apos;m based in Los Angeles, where I graduated from University of Southern California with a Master&apos;s in Computer Science. My journey includes spearheading the engineering team at Raven as a Founding Software Engineer to advancing machine learning applications at RTI International as a Data Scientist, focusing on applying AI to solve problems in the fashion and public health sector. Beyond my professional endeavors, I immerse myself in side projects, from AI-powered sports highlight generator to intelligent tutoring systems. In my downtime, I play and create video games, art, and music, and indulge in anime.
         </main>
       </div>
 
-      <div className="fixed right-0 top-1/2 transform -translate-y-1/2 z-50 lg:hidden">
+      <div className="fixed right-0 top-10 transform -translate-y-1/2 z-50 lg:hidden">
         <button
-          className="bg-blue-500 text-white rounded-l-md py-1 px-2"
+          className="bg-dull pop text-white rounded-l-md py-1 px-2"
           onClick={handleShow}
         >
-          →
+          Projects
         </button>
       </div>
 

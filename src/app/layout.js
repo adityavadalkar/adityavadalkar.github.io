@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
         <meta name="author" content="Aditya Vadalkar" />
         <meta property="og:title" content="Aditya Vadalkar - Portfolio" />
         <meta property="og:description" content="Aditya Vadalkar's portfolio showcasing skills and projects in software engineering, AI, and more." />
-        <meta property="og:image" content="/Profile pic.jpg" />
+        <meta property="og:image" content="./Profile pic.jpg" />
         <meta property="og:url" content="https://adityavadalkar.github.io/" />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Aditya Vadalkar Portfolio" />
