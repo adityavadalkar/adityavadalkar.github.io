@@ -1,0 +1,100 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[5088,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","185","static/chunks/app/layout-3f93e67193db4f95.js"],"ThemeProvider"]
+7:I[2474,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","185","static/chunks/app/layout-3f93e67193db4f95.js"],"default"]
+8:I[6862,["172","static/chunks/172-4759c12f1d1675ff.js","489","static/chunks/app/template-173a7e7b87469f62.js"],"default"]
+9:I[4712,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","185","static/chunks/app/layout-3f93e67193db4f95.js"],"default"]
+a:I[6824,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","185","static/chunks/app/layout-3f93e67193db4f95.js"],"default"]
+4:["slug","prompt-based-video-editor","d"]
+0:["s9quibxcS-HQB8gC03dBl",[[["",{"children":["blog",{"children":[["slug","prompt-based-video-editor","d"],{"children":["__PAGE__?{\"slug\":\"prompt-based-video-editor\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","prompt-based-video-editor","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","className":"scroll-smooth","data-theme":"violet","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Aditya Vadalkar\",\"url\":\"https://adityavadalkar.github.io/\",\"image\":\"https://adityavadalkar.github.io/Profile pic.jpg\",\"sameAs\":[\"https://github.com/adityavadalkar\",\"https://linkedin.com/in/aditya-vadalkar\",\"https://twitter.com/adityavadalkar\"],\"jobTitle\":\"Software Engineer & AI Developer\",\"worksFor\":{\"@type\":\"Organization\",\"name\":\"RTI International\"},\"alumniOf\":{\"@type\":\"CollegeOrUniversity\",\"name\":\"University of Southern California\"},\"knowsAbout\":[\"Artificial Intelligence\",\"Machine Learning\",\"Full Stack Development\",\"Python\",\"React\",\"LangChain\"]}"}}]}],["$","body",null,{"className":"bg-bg-primary text-text-primary antialiased","children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{"children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/02e841e2eddd5445.css","precedence":"next","crossOrigin":"$undefined"}]],"$Lb"]]]]
+c:T687,https://prod-files-secure.s3.us-west-2.amazonaws.com/85c99968-6e57-488f-ade6-f3d8470b6067/4ef75e9c-c595-4a43-b00f-0dee9fb05d6e/ai_powered.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TMHI77FD%2F20260211%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260211T120148Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDRoCtiwQqcjsvyw4lq%2Br4DipQq7cu6gAyAaoEFtwjCsgIhANzl4t64h%2BEYQGVM8Jd8VpEk5kwAUnUvjt0rVlN7mStTKogECLz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxX4Ig64mo5IadAz84q3APgq6LlqEoVIDP9tuXDeUC2clVUKYAJYNKEP6plDg%2FVZFUR0Oy6R8sM5ZyQ01BcCwe4K69%2BTQ5Pde3FeBLPasBzuuPoB2vRKJjADPm3BSdzhG%2Fv0cQPtKoaFw7JiDYlsfDNxN8N72CkEVjsxbt714IC7vJCPOKZYznQSrE0TG1GA5JmhQSB5F13qBAtd0zwQ7UgavY1JCh1NJ1XgqUufUTKWZSbtxKiUlyzf0%2FtBr5S8JEgt9%2F4o1SEMPZpt7O1zkWACS6pTT4SfxXWNav8zzcnFauEXPhEFrGRXQ9ZDaJwxyotXuis0vkl1BPFHU7H2BaVmJ2BqIJvCMc7MlyMHCsvyQFy09P9PkakYitj5M7LfU0rV8i5QwCgKxcLHvPecysk7Di8ZCg5g3Xg9qqVSbmCmyivBQZGGmQ9STKtnRGQn9nTIHEyLNxcOUHXcjNWAGQHEjVJ%2FbNq%2FXiZ3P7mLSJPYxkh%2Bxc4lbQVCK8VkMLyir2RqFYu7qTnccAJnMUWvC9ztG8ckvRzYgD2R8n2U%2F5eZAG4ePiOS%2FZ5CnR9uiGo3ROXn8%2Ft%2FRvt0kzCGSVwx0jvh7kEXDZ2b0RJE5TkJ%2FcWgyt4YxJcydBF66mdW6EQGdz%2BA2uyGoy7vNHlEDDJwLHMBjqkAd19u9HCEE%2B4cO%2BRylfnnoBbqO%2BELmYnPJ7BbNnpBJrkowwQQ8g0vdouyguZMNqFubZnIB6%2FYx2yYh5qCKeaZOIAfxxrXCU%2B94eTHMXz84qTUkJE6QJ%2Fp4zAoIfv%2F7nr3vVVMLNmQXsUPNfNeamhhIh6yNZ4C8mBfEJc8a6KLjybjSekWLEjJImvEW%2FM3K9DK9DLdk46gxthFbt7MO5ANHxxBRxn&X-Amz-Signature=b093321cc7d0a7fddacaf087cd59a379c3911c2d7369b6eb7ab4cda69e12ca0b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObjectb:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Building a Prompt-Based Sports Video Editor | Aditya Vadalkar | Aditya Vadalkar"}],["$","meta","3",{"name":"description","content":"How we built an AI pipeline that clips sports press conferences on natural language queries — and processed video 13x faster than competitors."}],["$","meta","4",{"name":"author","content":"Aditya Vadalkar"}],["$","meta","5",{"name":"keywords","content":"Aditya Vadalkar,Software Engineer,AI Developer,Machine Learning,Full Stack Developer,USC Graduate,Los Angeles,Game Developer"}],["$","meta","6",{"name":"creator","content":"Aditya Vadalkar"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-site-verification","content":"google4eb90cc9a6d1866d"}],["$","meta","10",{"property":"og:title","content":"Building a Prompt-Based Sports Video Editor"}],["$","meta","11",{"property":"og:description","content":"How we built an AI pipeline that clips sports press conferences on natural language queries — and processed video 13x faster than competitors."}],["$","meta","12",{"property":"og:image","content":"$c"}],["$","meta","13",{"property":"og:type","content":"article"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:creator","content":"@adityavadalkar"}],["$","meta","16",{"name":"twitter:title","content":"Aditya Vadalkar - Software Engineer & AI Developer"}],["$","meta","17",{"name":"twitter:description","content":"Portfolio of Aditya Vadalkar - Software Engineer specializing in AI, Machine Learning, and Full Stack Development."}],["$","meta","18",{"name":"twitter:image","content":"https://adityavadalkar.github.io/Profile%20pic.jpg"}],["$","link","19",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
+d:I[3832,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","648","static/chunks/648-829ffb428818122e.js","412","static/chunks/412-3f12fe6d7605b1a6.js","308","static/chunks/app/blog/%5Bslug%5D/page-f086762240fe1f66.js"],"default"]
+e:T69b,https://prod-files-secure.s3.us-west-2.amazonaws.com/85c99968-6e57-488f-ade6-f3d8470b6067/4ef75e9c-c595-4a43-b00f-0dee9fb05d6e/ai_powered.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RUBNYBLW%2F20260211%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260211T120149Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDBC3NTbS70M7q2%2FSpxMyPVHNDSseEuu6R5aXusU%2FgzfQIhAOEht%2B9YvtoshpotMkcrM%2Fyp8qdJ9yT44UCJpfzXSIGhKogECLz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxLg0R04JqpmdqZWJ8q3ANxq7UZDLr5iZ4FGCr5tEVT2louf4sGIH20L0sz2okR3fDYjZL%2FEeUXTmYfn%2BXw3ehlLE0mqWK6bm5N1AuSWjZPflk3wNu75gYXe40Axo7W2HCTA%2BrZROhAfwFl4Yuv1SB%2BBG8QkuEyyWJyKYZyjM44Dtx4bKVodncylHw0gSzoRD84eBIgU4xA35VHuefb61JtKc5fdnSM8Mgc2a3NnKtuMUr8xs6eF7iq6yMUTzaa6ojYfC%2B9tkauazIOir6%2BnBo24bK0rS8NGXZsXM0jqe3dSzF5tzKZxZ33dJ%2BenmWQJK5ITXSFcf5AhkH3A1yjuj7xhs9uFkfVaeu5WHGH1ANwT7YNwFUoG03piQ0egvBeyiyQj%2F%2FVc1e0vG230JY7xpVbGM7nZm2mOE%2FoaTQBQ7b7H7mWvfIluAaG23EBkDZsKSVno8CUgvfq6V9b4uUih0yEY5J4lctU5k5d9uSK%2F%2FXSRJqA2gstHXYprxo%2BZhIdKVVjvy2HHBe9Le6nGYr%2Bs1QqUL%2Bc6UMztlExtLhR5E%2FjICUtqyflm11TRLMQ1%2B7c%2BnXQeYt5tdPu6m23on1MqtrsP%2FazXUyg%2FDjUwV9sf%2BL3tzx58cNQV%2FF5Isk9DZ5vl6SeM1oOci7TSGyzJTCPurHMBjqkAZoXHmtEEB0o2QK66RM5F3z9sj1q7lB8KGDlqst7srE2FQuYGdRsFjjop0O1jzTLD%2BEaJijsG8G7i6I0Cd0567JvFR9gLI318RTqZS14%2BNozjEWOHNs%2FBnQCggdFG0a19gg1aramAWX9%2FAyDt5lqWKtVh0aoS%2FEz4OVCGmaEPOyFKM4vA1iN7Lc9uO9OBmvH0d7RhMq9Sd4CUG%2F%2Br6v62Tm%2BlCe5&X-Amz-Signature=001f2119a165cfcdc2257f8f0bb7a7045136f8ebe9186192506394676bed1e52&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObjectf:T1367,
+# The Problem
+
+
+Sports journalists sit through press conferences that run 45 minutes to an hour. They need maybe three clips. Finding them manually means scrubbing through the whole thing — and doing it on deadline.
+
+
+At a sports-tech hackathon, my team set out to fix that. The idea: a journalist types a query like _"anything about the trade rumours"_ or _"coach's comments on the injury"_, and the tool finds and exports the relevant clips automatically. We finished 3rd out of 15 teams, with a pipeline that processed video in 15% of the original runtime — versus competitors averaging 200%.
+
+
+## The Key Insight
+
+
+The natural instinct is to process video directly — run frames through vision models, scan for faces and scenes. We tried it. It was slow, expensive, and fragile under bad lighting or camera angles.
+
+
+The pivot was realising that a press conference is fundamentally a conversation. The video is just a delivery mechanism. The real information — who said what, when, in response to what question — is all in the audio. That shift in framing drove every decision after it.
+
+
+## Architecture Overview
+
+
+The pipeline had five stages, each feeding into the next:
+
+
+### 1. Audio Transcription
+
+
+We used AWS Transcribe with speaker diarization. This gave us a JSON output with each spoken segment timestamped and labelled by speaker ID (Speaker_0, Speaker_1, etc.) — not by name yet, just by voice signature.
+
+
+### 2. Speaker Identification
+
+
+Identifying names required a second pass. We ran Z-score analysis on speaking time distribution to separate panelists from interviewers — panelists dominate the airtime. Then AWS Rekognition ran against sampled video frames to match faces to names using publicly available references.
+
+
+### 3. Q&A Pairing
+
+
+Press conferences follow a predictable structure: interviewer asks, panelist responds. We paired adjacent interviewer-panelist transcript entries to preserve context — a clip without the question it's answering is often meaningless.
+
+
+### 4. Retrieval (Dual RAG)
+
+
+This was the core of the system. We built two RAG branches over the paired transcript chunks:
+
+- **Objective branch:** handles factual queries — specific people, incidents, named topics. Precision-focused retrieval.
+- **Subjective branch:** handles thematic queries — highlights, sentiment, broader story angles. Recall-focused, then re-ranked.
+
+Both branches fed into GPT-4o for final relevance scoring and segment selection. A sanity-check LLM pass filtered anything that made it through retrieval but wasn't actually relevant, and generated a short summary for each selected clip.
+
+
+### 5. Clipping and Output
+
+
+Selected segments (with their timestamps) were passed to a video processing layer that extracted and compiled the clips. A Flask-based UI let journalists paste a YouTube URL, type a query, review results, iterate with follow-up prompts, and download or share the final cut.
+
+
+## What Worked
+
+
+The speed was the most striking result. Because we were working off transcripts rather than raw video, the heavy computation was front-loaded in transcription and ran once. Subsequent queries were fast vector lookups and LLM calls — no re-processing the video. Our 15% runtime stat wasn't a cherry-picked benchmark; it was a structural advantage from the architecture.
+
+
+The Q&A pairing also turned out to be more important than we expected. Early tests without it produced clips that answered the question but lacked the question itself — which made the output confusing to watch. Pairing fixed that.
+
+
+## What Didn’t
+
+
+A few things bit us:
+
+- **Face obstructions.** Rekognition struggled when speakers turned away from the camera or were partially blocked. Name identification had meaningful error rates on certain footage.
+- **Chat history was shallow.** The UI supported follow-up queries, but context across multiple turns wasn't fully tracked. A journalist refining a search had to be fairly explicit each time.
+- **YouTube-only.** The pipeline was built around yt-dlp for video ingestion. Broadcast feeds, direct uploads, or other platforms weren't supported in the hackathon build.
+- **Age-restricted content** broke the download step entirely.
+
+## Takeaways
+
+
+The biggest lesson was about where to direct compute. Vision-first approaches feel intuitive for video problems, but audio carries most of the semantic content in a talking-head format. Leaning into that made the whole system faster and more reliable. The dual RAG split — objective vs. subjective retrieval — was the other structural decision that paid off, letting us handle both "find me what the coach said about X" and "find me the most interesting moments" with the same underlying data.
+
+
+It's a narrow use case, but the underlying pattern — transcribe, structure, retrieve, clip — generalises well to earnings calls, interviews, depositions, lectures. Anywhere long-form spoken content needs to be navigated.
+
+2:["$","$Ld",null,{"post":{"id":"2fcd5b64-dfbb-8018-b664-fac97e472579","slug":"prompt-based-video-editor","title":"Building a Prompt-Based Sports Video Editor","excerpt":"How we built an AI pipeline that clips sports press conferences on natural language queries — and processed video 13x faster than competitors.","category":"ai","date":"2026-02-11","coverImage":"$e","published":true,"content":"$f"}}]
