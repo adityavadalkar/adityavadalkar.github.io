@@ -1,0 +1,101 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[5088,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","642","static/chunks/642-791da4de30528557.js","185","static/chunks/app/layout-c59f7e2d0234a693.js"],"ThemeProvider"]
+7:I[5967,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","642","static/chunks/642-791da4de30528557.js","185","static/chunks/app/layout-c59f7e2d0234a693.js"],"default"]
+8:I[6862,["172","static/chunks/172-4759c12f1d1675ff.js","489","static/chunks/app/template-173a7e7b87469f62.js"],"default"]
+9:I[4712,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","642","static/chunks/642-791da4de30528557.js","185","static/chunks/app/layout-c59f7e2d0234a693.js"],"default"]
+a:I[6824,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","642","static/chunks/642-791da4de30528557.js","185","static/chunks/app/layout-c59f7e2d0234a693.js"],"default"]
+b:I[4404,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","642","static/chunks/642-791da4de30528557.js","185","static/chunks/app/layout-c59f7e2d0234a693.js"],"GoogleAnalytics"]
+4:["slug","ai-privacy-problem-architecture","d"]
+0:["GNwzZPu10-MOpfKtRVtgw",[[["",{"children":["blog",{"children":[["slug","ai-privacy-problem-architecture","d"],{"children":["__PAGE__?{\"slug\":\"ai-privacy-problem-architecture\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","ai-privacy-problem-architecture","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","className":"scroll-smooth","data-theme":"violet","children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://adityavadalkar.github.io/#website\",\"url\":\"https://adityavadalkar.github.io/\",\"name\":\"Aditya Vadalkar Portfolio\",\"description\":\"Portfolio of Aditya Vadalkar - Software Engineer specializing in AI, Machine Learning, and Full Stack Development.\",\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://adityavadalkar.github.io/#person\",\"name\":\"Aditya Vadalkar\",\"url\":\"https://adityavadalkar.github.io/\",\"image\":\"https://adityavadalkar.github.io/Profile_pic_transparent.png\",\"sameAs\":[\"https://github.com/adityavadalkar\",\"https://linkedin.com/in/aditya-vadalkar\",\"https://twitter.com/adityavadalkar\"],\"jobTitle\":\"Software Engineer & AI Developer\",\"worksFor\":{\"@type\":\"Organization\",\"name\":\"RTI International\"},\"alumniOf\":{\"@type\":\"CollegeOrUniversity\",\"name\":\"University of Southern California\"},\"knowsAbout\":[\"Artificial Intelligence\",\"Machine Learning\",\"Full Stack Development\",\"Python\",\"React\",\"LangChain\"]}]}"}}]}],["$","body",null,{"className":"bg-bg-primary text-text-primary antialiased","children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{"children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}],["$","$L9",null,{}],["$","$La",null,{}]]}]}],["$","$Lb",null,{"gaId":"G-DZBF1L2S1H"}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4a58b89d508413bb.css","precedence":"next","crossOrigin":"$undefined"}]],"$Lc"]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"AI Has a Privacy Problem. This Is How the Best Products Are Solving It | Aditya Vadalkar"}],["$","meta","3",{"name":"description","content":"Most AI products treat privacy like a feature, a consent banner, an anonymization pipeline, a reassuring line in the terms of service. But in healthcare, finance, and legal tech, the teams building serious products have realized something different: privacy is an architectural decision about where computation happens, not what you write in your terms of service."}],["$","meta","4",{"name":"author","content":"Aditya Vadalkar"}],["$","meta","5",{"name":"keywords","content":"Aditya Vadalkar,Software Engineer,AI Developer,Machine Learning,Full Stack Developer,USC Graduate,Los Angeles,Game Developer"}],["$","meta","6",{"name":"creator","content":"Aditya Vadalkar"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://adityavadalkar.github.io/blog/ai-privacy-problem-architecture/"}],["$","meta","10",{"name":"google-site-verification","content":"google4c957ffa3ba57993"}],["$","meta","11",{"property":"og:title","content":"AI Has a Privacy Problem. This Is How the Best Products Are Solving It"}],["$","meta","12",{"property":"og:description","content":"Most AI products treat privacy like a feature, a consent banner, an anonymization pipeline, a reassuring line in the terms of service. But in healthcare, finance, and legal tech, the teams building serious products have realized something different: privacy is an architectural decision about where computation happens, not what you write in your terms of service."}],["$","meta","13",{"property":"og:url","content":"https://adityavadalkar.github.io/blog/ai-privacy-problem-architecture/"}],["$","meta","14",{"property":"og:image","content":"https://i.imgur.com/9OM94FJ.png"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-02-19T00:00:00.000Z"}],["$","meta","17",{"property":"article:author","content":"Aditya Vadalkar"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"AI Has a Privacy Problem. This Is How the Best Products Are Solving It"}],["$","meta","20",{"name":"twitter:description","content":"Most AI products treat privacy like a feature, a consent banner, an anonymization pipeline, a reassuring line in the terms of service. But in healthcare, finance, and legal tech, the teams building serious products have realized something different: privacy is an architectural decision about where computation happens, not what you write in your terms of service."}],["$","meta","21",{"name":"twitter:image","content":"https://i.imgur.com/9OM94FJ.png"}],["$","link","22",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
+d:I[3832,["172","static/chunks/172-4759c12f1d1675ff.js","138","static/chunks/138-5a5097ef2b623451.js","648","static/chunks/648-829ffb428818122e.js","412","static/chunks/412-3f12fe6d7605b1a6.js","308","static/chunks/app/blog/%5Bslug%5D/page-353bb353c703bc6c.js"],"default"]
+e:T146a,
+**AI Has a Privacy Problem. This Is How the Best Products Are Solving It.**
+
+
+The privacy problem in AI isn't what most people think it is.
+
+
+It's not that companies are lying about what they do with your data. It's not that regulators haven't caught up. It's that the entire architecture of most AI products is built on an assumption that should make anyone in a sensitive industry deeply uncomfortable: that the most useful thing to do with personal data is send it to a cloud model as fast as possible.
+
+
+Healthcare apps that process your symptoms. Finance tools that read your spending. Legal assistants that review privileged documents. The dominant pattern across all of them is the same — take raw personal data, ship it to a server, run it through a model, get a response. 
+
+
+![video](https://i.imgur.com/T9ytER0.png%5B/img%5D)
+
+
+The privacy layer, if it exists at all, sits on top of this. Consent banners. Anonymization pipelines. Encryption in transit.
+
+
+These are not solutions to the underlying problem. They are aesthetic choices layered over an architecture that treats user data as cloud model fuel by default.
+
+
+---
+
+
+The products getting this right are making a different decision — not about policy, but about architecture. Specifically: which computations happen on the device, and which ones happen in the cloud.
+
+
+This distinction matters enormously. An on-device model can analyze a user's history, extract meaningful patterns, and retrieve relevant context without any of that data ever crossing a network boundary. What it sends to the cloud isn't the raw personal data. It's a structured, compressed briefing — enough for the cloud model to reason well, stripped of the sensitive source material.
+
+
+![video](https://i.imgur.com/LggxgjO.png%5B/img%5D)
+
+
+The privacy isn't achieved by obscuring the data after the fact. It's achieved by never moving it in the first place. This is privacy as an architectural property, not a compliance feature. It changes what the cloud model receives. It changes what can be subpoenaed, breached, or leaked. It changes what the user has to trust you with — which, if the architecture is right, isn't very much at all.
+
+
+---
+
+
+The sectors where this matters most are exactly the sectors where AI has the most potential.
+
+
+Mental health: the value of a good AI therapy tool depends entirely on the user being honest. That honesty disappears the moment they suspect their words are being stored on a server, reviewed for training, or accessible to third parties they never agreed to. The product that solves this isn't one with a better privacy policy. It's one where the conversation never leaves the device.
+
+
+Personal finance: spending data is extraordinarily revealing. It maps relationships, health conditions, political affiliations, vices. The reason people don't fully trust financial AI tools isn't irrational — it's pattern recognition. They've watched data companies monetize exactly this kind of signal for two decades. The trust simply isn't there to spend.
+
+
+Legal: attorney-client privilege is a structural requirement, not a preference. A legal AI tool that ships raw case notes and client communications to a cloud model creates genuine professional and legal exposure for every firm that uses it. In this context, architecture isn't just an engineering choice — it's an obligation.
+
+
+In each of these sectors, serious teams have arrived at the same conclusion. The data can't leave the device. So the model that touches raw data runs on the device. The cloud model — the powerful one, the one with genuine reasoning depth — receives a carefully constructed briefing, not a raw feed.
+
+
+![mITad8k.png](https://i.imgur.com/mITad8k.png)
+
+
+---
+
+
+This is a harder way to build. On-device models are smaller and more constrained than their cloud counterparts. Running them efficiently on consumer hardware is real engineering work. The handoff between the two models — deciding what to send, in what form, with what fidelity — is itself a design problem that most teams haven't solved well yet.
+
+
+![Jc2XtUI.png](https://i.imgur.com/Jc2XtUI.png)
+
+
+But the products that crack this aren't just more privacy-friendly. They're more useful. In healthcare, finance, and law, the quality of an AI's output depends almost entirely on the quality of its input. A tool people trust completely will collect more honest data and produce better answers than a more powerful tool people use guardedly. 
+
+
+![video](https://i.imgur.com/qysaCIH.png%5B/img%5D)
+
+
+Privacy-first architecture, in other words, isn't a constraint on what you can build. It's a condition for the product working at all.
+
+
+There's a reason the companies leading in these sectors are the ones investing in this model. The products that earn unconditional user trust will eventually outperform the ones that don't — regardless of which cloud model they're calling.
+
+
+---
+
+
+The obvious next question is: what does this actually look like when you build it? How do you split the work between an on-device model and a cloud model in a way that preserves context without shipping sensitive data? How does the smaller model brief the larger one?
+
+
+That's exactly what Part 2 covers.
+
+2:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"AI Has a Privacy Problem. This Is How the Best Products Are Solving It\",\"description\":\"Most AI products treat privacy like a feature, a consent banner, an anonymization pipeline, a reassuring line in the terms of service. But in healthcare, finance, and legal tech, the teams building serious products have realized something different: privacy is an architectural decision about where computation happens, not what you write in your terms of service.\",\"author\":{\"@type\":\"Person\",\"name\":\"Aditya Vadalkar\",\"url\":\"https://adityavadalkar.github.io/about\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Aditya Vadalkar\"},\"datePublished\":\"2026-02-19T00:00:00.000Z\",\"mainEntityOfPage\":\"https://adityavadalkar.github.io/blog/ai-privacy-problem-architecture\",\"image\":\"https://i.imgur.com/9OM94FJ.png\"}"}}],["$","$Ld",null,{"post":{"id":"30cd5b64-dfbb-8052-a6f4-c88c3c5daa69","slug":"ai-privacy-problem-architecture","title":"AI Has a Privacy Problem. This Is How the Best Products Are Solving It","excerpt":"Most AI products treat privacy like a feature, a consent banner, an anonymization pipeline, a reassuring line in the terms of service. But in healthcare, finance, and legal tech, the teams building serious products have realized something different: privacy is an architectural decision about where computation happens, not what you write in your terms of service.","category":"ai","date":"2026-02-19","coverImage":"https://i.imgur.com/9OM94FJ.png","published":true,"content":"$e"}}]]
